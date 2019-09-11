@@ -102,5 +102,42 @@
 10. What is filter feature selection method and describe two of them?
 11. What is mutual information and KL divergence? 
 12. Describe KL divergence intuitively. Hint:  Curse of dimensionality 
-13. What is local constancy or smoothness prior or regularization?  
+13. What is local constancy or smoothness prior or regularization? 
 
+### Support Vector Machine
+1. How can the SVM optimisation function be derived from the logistic regression optimisation function? 
+What is a large margin classifier?
+2. Why SVM is an example of a large margin classifier? 
+3. SVM being a large margin classifier, is it influenced by outliers? 
+4. What is the role of C in SVM? 
+5. In SVM, what is the angle between the decision boundary and theta? 
+6. What is the mathematical intuition of a large margin classifier?
+7. What is a kernel in SVM? Why do we use kernels in SVM? 
+8. What is a similarity function in SVM? Why it is named so?
+9. How are the landmarks initially chosen in an SVM? How many and where? 
+10. Can we apply the kernel trick to logistic regression? Why is it not used in practice then?
+11. What is the difference between logistic regression and SVM without a kernel? 
+12. How does the SVM parameter C affect the bias/variance trade off? 
+13. How does the SVM kernel parameter sigma2 affect the bias/variance trade  off?
+14. Can any similarity function be used for SVM?
+15. Logistic regression vs. SVMs: When to use which one? 
+
+### Bayesian Machine Learning
+1. What are the differences between “Bayesian” and “Freqentist” approach for Machine Learning?
+2. Compare and contrast maximum likelihood and maximum a posteriori 
+estimation.
+3. How does Bayesian methods do automatic feature selection? 
+4. What do you mean by Bayesian regularization? 
+5. When will you use Bayesian methods instead of Frequentist methods? 
+
+### Regularization
+1. What is L1 regularization? 
+2. What is L2 regularization? 
+3. Compare L1 and L2 regularization.
+4. Why does L1 regularization result in sparse models? 
+5. What is dropout? 
+6. How will you implement dropout during forward and backward pass? 
+
+### Evaluation of Machine Learning systems 
+1. What are accuracy, sensitivity, specificity, ROC? 
+2. What are precision and recall? 
