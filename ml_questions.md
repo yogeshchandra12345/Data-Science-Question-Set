@@ -198,3 +198,29 @@ estimation.
 18. Adam and RMSProp adjust the size of gradients based on previously seen gradients. Do they inherently perform gradient clipping? If no, why? 
 19. Discuss RNNs in the context of Bayesian Machine Learning. 
 20. Can we do Batch Normalization in RNNs? If not, what is the alternative? 
+### Autoencoders 
+1. What is an Autoencoder? What does it “auto-encode”? 
+2. What were Autoencoders traditionally used for? Why there has been a resurgence of Autoencoders for generative modeling? 
+3. What is recirculation? 
+4. What loss functions are used for Autoencoders? 
+5. What is a linear autoencoder? Can it be optimal (lowest training reconstruction error)? If yes, under what conditions? 
+6. What is the difference between Autoencoders and PCA? 
+7. What is the impact of the size of the hidden layer in Autoencoders? 
+8. What is an undercomplete Autoencoder? Why is it typically used for? 
+9. What is a linear Autoencoder? Discuss it’s equivalence with PCA. Which one is better in reconstruction? 
+10. What problems might a nonlinear undercomplete Autoencoder face? 
+11. What are overcomplete Autoencoders? What problems might they face? Does the scenario change for linear overcomplete autoencoders? 
+12. Discuss the importance of regularization in the context of Autoencoders. 
+13. Why does generative autoencoders not require regularization? 
+14. What are sparse autoencoders? 
+15. What is a denoising autoencoder? What are its advantages? How does it solve  the overcomplete problem? 
+16. What is score matching? Discuss it’s connections to DAEs. 
+17. Are there any connections between Autoencoders and RBMs? 
+18. What is manifold learning? How are denoising and contractive autoencoders  equipped to do manifold learning?
+19. What is a contractive autoencoder? Discuss its advantages. How does it solve the overcomplete problem? 
+20. Why is a contractive autoencoder named so? 
+21. What are the practical issues with CAEs? How to tackle them? 
+22. What is a stacked autoencoder? What is a deep autoencoder? Compare and contrast. 
+23. Compare the reconstruction quality of a deep autoencoder vs. PCA.
+24. What is predictive sparse decomposition? 
+25. Discuss some applications of Autoencoders. 
