@@ -98,8 +98,3 @@
 12. Describe KL divergence intuitively. Hint:  Curse of dimensionality 
 13. What is local constancy or smoothness prior or regularization?  
 
-
-
-
-13. 
-
