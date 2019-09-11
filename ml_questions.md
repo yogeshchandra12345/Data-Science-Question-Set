@@ -34,3 +34,72 @@
 31. What is the trace of a scalar? 
 32. Write the Frobenius norm of a matrix in terms of trace? 
 
+### Numerical Optimization
+1. What is Overflow and underlflow?
+2. How to tackle the problem of underflow or overflow for softmax function or log softmax function? 
+3. What is poor conditioning? 
+4. What is the condition number? 
+5. What are grad, div and curl? 
+6. What are critical or stationary points in multi-dimensions? 
+7. Why should you do gradient descent when you want to minimise a function? 
+8. What is a Jacobian matrix?
+9. What is a Hessian matrix
+### Basics of Probability and Information Theory 
+1. Compare “Frequentist probability” vs. “Bayesian probability”? 
+2. What is a random variable?
+3. What is a probability distribution?
+4. What is a probability mass function?
+5. What is a probability density function?
+6. What is a joint probability distribution?
+7. What are the conditions for a function to be a probability mass function?
+8.What are the conditions for a function to be a probability density function? marginal probability? Given the joint probability function, how will you calculate it?
+9. State the Chain rule of conditional probabilities. 
+10. What are the conditions for independence and conditional independence of  two random variables?
+11. What are expectation, variance and covariance?
+12. Compare covariance, correlation, causation.
+13. What is the covariance for a vector of random variables? 
+14. What is a Bernoulli distribution? Calculate the expectation and variance of a random variable that follows Bernoulli distribution?
+15. What is a multinoulli distribution? 
+16. What is a normal distribution? 
+17. Why is the normal distribution a default choice for a prior over a set of real numbers? 
+18. What is the central limit theorem?
+19. What are exponential and Laplace distribution?
+20. What are Dirac distribution and Empirical distribution?
+21. What is Kullback-Leibler (KL) divergence?
+22. Define cross-entropy Ans: Cross-entropy is commonly used to quantify the  difference between two probability distributions
+23. What are structured probabilistic models or graphical models? 
+24. What is population standard deviation and sample standard deviation? 
+25. Why population s.d. has N degrees of freedom while sample s.d. has N-1  degrees of freedom? In other words, why 1/N inside root for pop. s.d. and 1/(N-1) inside root for sample s.d.? 
+26. What is the formula for calculating the s.d. of the sample mean? 
+27. Describe bias and variance with examples. 
+28. What is Union bound and Hoeffding’s inequality? 
+29. What is the bias-variance trade-off theorem? 
+30. State the uniform convergence theorem and derive it.
+31. What is sample complexity bound of uniform convergence theorem? 
+32. What is error bound of uniform convergence theorem? 
+32. From the bias-variance trade-off, can you derive the bound on training set size?
+33. What is the VC dimension? 
+34. What does the training set size depend on for a finite and infinite hypothesis set? Compare and contrast. 
+35. What is the VC dimension for an n-dimensional linear classifier? 
+36. How is the VC dimension of a SVM bounded although it is projected to an  infinite dimension? 21. Considering that Empirical Risk Minimization is a NP-hard problem, how does logistic regression and SVM loss work?
+
+### ML Model Selection
+1. How do you do a trade-off between bias and variance? 
+2. Why is cross-validation required? 
+3. Describe different cross-validation techniques.
+4. What is hold-out cross validation? What are its advantages and disadvantages? 
+5. What is k-fold cross validation? What are its advantages and disadvantages? 
+6. What is leave-one-out cross validation? What are its advantages and disadvantages? 
+7. Why is feature selection required? Describe some feature selection methods
+8. What is forward feature selection method? What are its advantages and disadvantages? 
+9. What is backward feature selection method? What are its advantages and disadvantages?
+10. What is filter feature selection method and describe two of them?
+11. What is mutual information and KL divergence? 
+12. Describe KL divergence intuitively. Hint:  Curse of dimensionality 
+13. What is local constancy or smoothness prior or regularization?  
+
+
+
+
+13. 
+
