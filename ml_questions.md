@@ -3,6 +3,12 @@
 - [Numerical Optimization](#Numerical-Optimization)
 - [Basics of Probability and Information Theory](#Basics-of-Probability-and-Information-Theory)
 - [ML Model Selection](#ML-Model-Selection)
+- [Support Vector Machine](#Support-Vector-Machine)
+- [Bayesian Machine Learning](#Bayesian-Machin-Learning)
+- [Regularization](#Regularization)
+- [Evaluation of Machine Learning systems](#Evaluation-of-Machine-Learning-systems)
+- [Clustering](#Clustering)
+- [Dimensionality Reduction](#Dimensionality-Reduction)
 
 
 ### Linear Algebra
