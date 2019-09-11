@@ -161,4 +161,40 @@ estimation.
 1. Why do we need dimensionality reduction techniques? 
 2. What do we need PCA and what does it do? 
 3. What is the difference between logistic regression and PCA? 
-4. What are the two pre-processing steps that should be applied before doing  PCA?
+4. What are the two pre-processing steps that should be applied before doing PCA?
+
+### Basics of Natural Language Processing 
+
+1. What is WORD2VEC? 
+2. What is t-SNE? Why do we use PCA instead of t-SNE? 
+3. What is sampled softmax? 
+4. Why is it difficult to train a RNN with SGD? 
+5. How do you tackle the problem of exploding gradients? 
+6. What is the problem of vanishing gradients? 
+7. How do you tackle the problem of vanishing gradients? 
+8. Explain the memory cell of a LSTM. 
+9. What type of regularization do one use in LSTM? 
+10. What is Beam Search? 
+11. How to automatically caption an image? 
+
+### Sequence Modelling
+1. Write the equation describing a dynamical system. Can you unfold it? Now, can you use this to describe a RNN? 
+2. What determines the size of an unfolded graph? 
+3. What are the advantages of an unfolded graph? 
+4. What does the output of the hidden layer of a RNN at any arbitrary time t represent? 
+5. Are the output of hidden layers of RNNs lossless? If not, why? 
+6. RNNs are used for various tasks. From a RNNs point of view, what tasks are  more demanding than others? 
+7. Discuss some examples of important design patterns of classical RNNs. 
+8. Write the equations for a classical RNN where hidden layer has recurrence.  How would you define the loss in this case? What problems you might face while training it? 
+9. What is back-propagation through time? 
+10. Consider a RNN that has only output to hidden layer recurrence. What are its advantages or disadvantages compared to a RNN having only hidden to hidden recurrence? 
+11. What is Teacher forcing? Compare and contrast with BPTT.
+12. What is the disadvantage of using a strict teacher forcing technique? How to solve this?
+13. Explain the vanishing/exploding gradient phenomenon for recurrent neural networks.
+14. Why don’t we see the vanishing/exploding gradient phenomenon in feedforward networks?
+15. What is the key difference in architecture of LSTMs/GRUs compared to traditional RNNs? 
+16. What is the difference between LSTM and GRU?
+17. Explain Gradient Clipping. 
+18. Adam and RMSProp adjust the size of gradients based on previously seen gradients. Do they inherently perform gradient clipping? If no, why? 
+19. Discuss RNNs in the context of Bayesian Machine Learning. 
+20. Can we do Batch Normalization in RNNs? If not, what is the alternative? 
