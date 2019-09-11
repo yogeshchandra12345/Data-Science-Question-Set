@@ -141,3 +141,24 @@ estimation.
 ### Evaluation of Machine Learning systems 
 1. What are accuracy, sensitivity, specificity, ROC? 
 2. What are precision and recall? 
+3. Describe t-test in the context of Machine Learning.
+4. How does a ROC curve function?
+5. Explain the difference between Type 1 and Type 2 errors?
+6. What is meant by F1 score?
+
+### Clustering 
+
+1. Describe the k-means algorithm. 
+2. What is distortion function? Is it convex or non-convex? 
+3. Tell me about the convergence of the distortion function. 
+4. Topic: EM algorithm 
+5. What is the Gaussian Mixture Model? 
+6. Describe the EM algorithm intuitively. 
+7. What are the two steps of the EM algorithm 
+8. Compare Gaussian Mixture Model and Gaussian Discriminant Analysis. 
+
+### Dimensionality Reduction
+1. Why do we need dimensionality reduction techniques? 
+2. What do we need PCA and what does it do? 
+3. What is the difference between logistic regression and PCA? 
+4. What are the two pre-processing steps that should be applied before doing  PCA?
