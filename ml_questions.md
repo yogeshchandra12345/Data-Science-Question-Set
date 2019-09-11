@@ -1,6 +1,8 @@
 ## Questions 
 - [Linear Algebra](#Linear-Algebra)
 - [Numerical Optimization](#Numerical-Optimization)
+- [Basics of Probability and Information Theory](#Basics-of-Probability-and-Information-Theory)
+- [ML Model Selection](#ML-Model-Selection)
 
 
 ### Linear Algebra
