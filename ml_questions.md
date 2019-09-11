@@ -224,3 +224,22 @@ estimation.
 23. Compare the reconstruction quality of a deep autoencoder vs. PCA.
 24. What is predictive sparse decomposition? 
 25. Discuss some applications of Autoencoders. 
+
+### Representation Learning 
+1. What is representation learning? Why is it useful? 
+2. What is the relation between Representation Learning and Deep Learning? 
+3. What is one-shot and zero-shot learning (Google’s NMT)? Give examples. 
+4. What trade offs does representation learning have to consider? 
+5. What is greedy layer-wise unsupervised pretraining (GLUP)? Why greedy? Why layer-wise? Why unsupervised? Why pretraining?
+6. What were/are the purposes of the above technique? (deep learning problem and initialization) 
+7. Why does unsupervised pretraining work? 
+8. When does unsupervised training work? Under which circumstances? 
+9. Why might unsupervised pretraining act as a regularizer? 
+10. What is the disadvantage of unsupervised pretraining compared to other forms of unsupervised learning? 
+11. How do you control the regularizing effect of unsupervised pretraining? 
+12. How to select the hyper-parameters of each stage of GLUP? 
+### Monte Carlo Methods 
+1. What are deterministic algorithms? 
+2. What are Las vegas algorithms? 
+3. What are deterministic approximate algorithms? 
+4. What are Monte Carlo algorithms? 
