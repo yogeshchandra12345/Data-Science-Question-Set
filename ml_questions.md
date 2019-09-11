@@ -1,4 +1,8 @@
 ## Questions 
+- [Linear Algebra](#Linear-Algebra)
+- [Numerical Optimization](#Numerical-Optimization)
+
+
 ### Linear Algebra
 1. What are scalars, vectors, matrices, and tensors? 
 2. What is Hadamard product of two matrices? Ans: entrywise product.
